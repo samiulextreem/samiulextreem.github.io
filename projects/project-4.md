@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Circuit design, PCB building and constructing a scintific calculator
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
@@ -57,5 +57,4 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
