@@ -15,7 +15,7 @@ labels:
 summary: A project I made to learn more about circuit design, PCB sketching and coding with complex mathmatical model 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/scintf_calculator.png.png">
+<img class="ui image" src="{{ site.baseurl }}/images/scintf_calculator.png">
 
 
 
