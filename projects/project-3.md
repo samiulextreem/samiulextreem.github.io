@@ -18,5 +18,14 @@ summary: A project I made to learn more about circuit design, PCB sketching and 
   <img class="ui image" src="../images/scintf_calculator.png">
 </div>
 
+dfasdjkldn;aosuirrrrrrrrrrrrrrrracvds
 
 
+
+
+
+
+
+
+
+afsdklfjaoiewjfasd
