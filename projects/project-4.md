@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/freeRTOS.png
-title: ESP-32 multi threading usinf freeRTOS (Real time operating system)
+image: images/FreeRTOS.png
+title: ESP-32 multi threading usinf FreeRTOS (Real time operating system)
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-12
