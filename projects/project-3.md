@@ -16,5 +16,5 @@ summary: A project I made to learn more about circuit design, PCB sketching and 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Line_follower_robot.jpg">
+  <img class="ui image" src="../images/scintf_calculator.png">
 </div>
