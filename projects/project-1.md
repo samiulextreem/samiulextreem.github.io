@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Line_follower_robot.jpg
-title: PID controlled line following and maze solving robot 
+title: PID controled line following and maze solving robot 
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
