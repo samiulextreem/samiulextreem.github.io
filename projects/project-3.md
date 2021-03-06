@@ -21,4 +21,4 @@ summary: A project I made to learn more about circuit design, PCB sketching and 
 
 
 
-To know and get real life experience on circuit design, PCB febrication, i thought why not make a calculator with the capabilities of performing scientific operation. From that thought, i started to design with cheap but powerfull esp 8266 soc. The full circuit design and PCB layout is abalible in this link[https://easyeda.com/editor#id=7aeca7a23e6c4779ad568054f154b74f|4771d9ba730444b49f8c3ca4d3c30b9d|4d9683e1f7284cb6978e3456bfbe43ca] 
+To know and get real life experience on circuit design, PCB febrication, i thought why not make a calculator with the capabilities of performing scientific operation. From that thought, i started to design with cheap but powerfull esp 8266 soc. The full circuit design and PCB layout is abalible in this [link](https://easyeda.com/editor#id=7aeca7a23e6c4779ad568054f154b74f|4771d9ba730444b49f8c3ca4d3c30b9d|4d9683e1f7284cb6978e3456bfbe43ca)
