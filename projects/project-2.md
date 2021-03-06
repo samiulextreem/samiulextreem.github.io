@@ -11,7 +11,7 @@ labels:
   - Arduino
   - Esp8266
   - wifi
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A responsive web interface for real time power usage and distribution to optimize load dispatch.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/IOT_HOME_AUTOMATION.png">
