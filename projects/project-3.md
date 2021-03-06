@@ -14,18 +14,7 @@ labels:
 
 summary: A project I made to learn more about circuit design, PCB sketching and coding with complex mathmatical model 
 ---
+
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/scintf_calculator.png">
+  <img class="ui image" src="../images/Line_follower_robot.jpg">
 </div>
-
-dfasdjkldn;aosuirrrrrrrrrrrrrrrracvds
-
-
-
-
-
-
-
-
-
-afsdklfjaoiewjfasd
