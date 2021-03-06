@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Line_follower_robot.jpg
 title: PID controlled line following 
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
