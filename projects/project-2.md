@@ -5,12 +5,12 @@ image: images/IOT_HOME_AUTOMATION.png
 title: IOT based Home automation
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-25
+date: 2019-01-25
 labels:
   - EasyEDA
   - Arduino
   - Esp8266
-  - wireless fidelity
+  - wifi
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
