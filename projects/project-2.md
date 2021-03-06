@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/IOT_HOME_AUTOMATION.png
+title: IOT based Home automation
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-01-25
 labels:
   - Javascript
   - Meteor
