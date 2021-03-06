@@ -16,7 +16,7 @@ summary: A project I made to learn more about circuit design, PCB sketching and 
 ---
 
 <div class="ui images">
-  <img class="ui image" src="../images/freeRTOS.png">
+  <img class="ui image" src="../images/FreeRTOS.png">
 </div>
 
 
