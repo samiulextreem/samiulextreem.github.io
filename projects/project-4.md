@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/FreeRTOS.png
+image: images/FreeRTOS.jpg
 title: ESP-32 multi threading usinf FreeRTOS (Real time operating system)
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
@@ -16,7 +16,7 @@ summary: A project I made to learn more about circuit design, PCB sketching and 
 ---
 
 <div class="ui images">
-  <img class="ui image" src="../images/FreeRTOS.png">
+  <img class="ui image" src="../images/FreeRTOS.jpg">
 </div>
 
 
