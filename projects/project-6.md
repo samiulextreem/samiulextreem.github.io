@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/scintf_calculator.png
-title: Experimentation of adversarial pertubation attack on COVID-19 Detection attack
+title: Detecting  stell defect with machine learning model using U-net Architecutre
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-12
