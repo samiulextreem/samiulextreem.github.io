@@ -5,7 +5,7 @@ image: images/Line_follower_robot.jpg
 title: PID controled line following and maze solving robot 
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2015-08-03
 labels:
   - Robotics
   - Arduino
