@@ -7,10 +7,9 @@ permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-13
 labels:
-  - EasyEDA
-  - esp8266
-  - PCB design
-  - C++
+  - U-net
+  - Machine earning
+  - Steel defect detection
 summary: As a part of my thesis i had to experiment with detection and segmentation of steel defect into multiple class.
 ---
 
