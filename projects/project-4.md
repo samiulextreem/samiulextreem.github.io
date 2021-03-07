@@ -5,7 +5,7 @@ image: images/FreeRTOS.jpg
 title: ESP-32 multi threading usinf FreeRTOS (Real time operating system)
 permalink: projects/freeRTOS
 # All dates must be YYYY-MM-DD format!
-date: 2018-04-12
+date: 2017-11-11
 labels:
   - EasyEDA
   - esp8266
