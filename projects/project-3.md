@@ -5,7 +5,7 @@ image: images/scintf_calculator.png
 title: Designing circuit, pcb and programming a scientific calculator with esp8266 soc
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2018-04-12
+date: 2016-10-12
 labels:
   - EasyEDA
   - esp8266
