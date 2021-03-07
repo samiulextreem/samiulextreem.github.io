@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/scintf_calculator.png
+image: images/covid.jpg
 title: Experimentation of adversarial pertubation attack on COVID-19 Detection attack
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
@@ -12,11 +12,11 @@ labels:
   - PCB design
   - C++
 
-summary: A project I made to learn more about circuit design, PCB sketching and coding with complex mathmatical model 
+summary: This project is about the vanuarability of machine learning based covid detection andexploiting the vanuarability
 ---
 
 <div class="ui images">
-  <img class="ui image" src="../images/scintf_calculator.png">
+  <img class="ui image" src="../images/covid_wall.jpg">
 </div>
 
 
