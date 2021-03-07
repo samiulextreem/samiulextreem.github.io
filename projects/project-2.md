@@ -5,7 +5,7 @@ image: images/IOT_HOME_AUTOMATION.png
 title: IOT based Home automation
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-25
+date: 2016-05-14
 labels:
   - EasyEDA
   - Arduino
