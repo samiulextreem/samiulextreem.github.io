@@ -20,8 +20,11 @@ summary: This project is about the vanuarability of machine learning based covid
 </div>
 
 
+Under the epidemic of the novel coronavirus disease 2019 (COVID-19), chest X-ray computed tomography imaging is being used for effectively screening COVID-19 patients. The 
+development of computer-aided systems based on deep neural networks (DNNs) has been advanced, to rapidly and accurately detect COVID-19 cases, because the need for expert 
+radiologists, who are limited in number, forms a bottleneck for the screening. However, so far, the vulnerability of DNN-based systems has been poorly evaluated, although DNNs are vulnerable to a single perturbation, called universal adversarial perturbation (UAP), which can induce DNN failure in most classification tasks.
 
-To know and get real life experience on circuit design and  PCB fabrication, i planned to make a calculator with the capabilities of performing scientific operation.
-From that thought, i started to design with cheap but powerfull esp 8266 soc. The display liberies used in the project is u86f. The full circuit design and PCB layout is 
-avalible in this [Link](https://easyeda.com/samiulextreem/Device_advance). The code i had written , i had used Arduino and C++ for mathmatical calculation. The code can be 
-found in this [Link](https://github.com/samiulextreem/Device_advance).
+Me and my team are  focused on representative DNN models for detecting COVID-19 cases from chest X-ray images and evaluate their vulnerability to UAPs generated using simple 
+iterative algorithms. We consider nontargeted UAPs, which cause a task failure resulting in an input being assigned an incorrect label, and targeted UAPs, which cause the DNN to 
+classify an input into a specific class. The results indicate that careful consideration is required in practical applications of DNNs to COVID-19 diagnosis; in particular, they 
+emphasize the need for strategies to address security concerns. As an example, we show that iterative fine-tuning of the DNN models using UAPs improves the robustness of the DNN models against UAPs
