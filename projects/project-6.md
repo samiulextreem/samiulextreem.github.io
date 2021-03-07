@@ -1,4 +1,4 @@
- ---
+---
 layout: project
 type: project
 image: images/Steel_defect.jpg
@@ -11,7 +11,6 @@ labels:
   - esp8266
   - PCB design
   - C++
-
 summary: As a part of my thesis i had to experiment with detection and segmentation of steel defect into multiple class.
 ---
 
