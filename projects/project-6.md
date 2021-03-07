@@ -5,7 +5,7 @@ image: images/scintf_calculator.png
 title: Detecting  stell defect with machine learning model using U-net Architecutre
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2018-04-12
+date: 2018-02-13
 labels:
   - EasyEDA
   - esp8266
