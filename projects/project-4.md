@@ -7,9 +7,8 @@ permalink: projects/freeRTOS
 # All dates must be YYYY-MM-DD format!
 date: 2017-11-11
 labels:
-  - EasyEDA
-  - esp8266
-  - PCB design
+  - esp 32
+  - FreeRTOS
   - C++
 
 summary: A project I made to learn more about circuit design, PCB sketching and coding with complex mathmatical model 
