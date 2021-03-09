@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Steel_defect.jpg
 title: Detection and segmentation of steel defect with machine learning model using U-net Architecutre
-permalink: projects/cotton
+permalink: projects/steel_defect
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-13
 labels:
