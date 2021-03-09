@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/covid.jpg
 title: Experimentation of adversarial pertubation attack on COVID-19 Detection attack
-permalink: projects/cotton
+permalink: projects/Coivd-19
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-25
 labels:
