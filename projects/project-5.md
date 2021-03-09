@@ -7,10 +7,9 @@ permalink: projects/Coivd-19
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-25
 labels:
-  - EasyEDA
-  - esp8266
-  - PCB design
-  - C++
+  - AI
+  - pytorch
+
 
 summary: This project is about the vanuarability of machine learning based covid detection andexploiting the vanuarability
 ---
