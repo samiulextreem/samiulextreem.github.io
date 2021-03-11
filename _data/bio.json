@@ -6,7 +6,7 @@
     "email": "samiulextreem@hotmail.com",
     "phone": "+8801768512544",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "his is Samiul Haque. I have completed my graduation in Electrical and Electronic Engineering from Hajee Mohammad Danesh Science and Technology University, Bangladesh. I am extremely  passionate about technology. Since my university life I have joined many technical organizations to boost up my knowledge. I have participated in several national and international technical competitions. Starting with a simple light sensor, I have made  PID controlled advanced line following robot and autonomous sumo fighting robot. During the last two years of undergrad I solely focused on research. My expertise  is focused on IoT, Machine Learning and Image Processing. I have developed  several real life IoT  projects. Furthermore, I have completed several biomedical projects with the integration of Machine Learning and Image Processing. Currently, I am working as a Junior Software Engineer (Machine Learning) at Agrohi and passionate about exploring new research areas with the  integration of IoT and Machine Learning.",
     "location": {
       "address": "Sonarampur",
       "postalCode": "",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "Embedded programming",
       "keywords": [
       ]
     },
@@ -48,8 +48,7 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
+        "python",
         "Assembly",
         "Common Lisp"
       ]
@@ -58,32 +57,30 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Hajee Mohammad Danesh Science & Technology University",
+      "area": "Electrical and Electronics Engineering",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2015-03-01",
+      "endDate": "2018-03-01",
+      "gpa": "3.07",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "",
+      "position": "",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
@@ -91,18 +88,6 @@
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
@@ -133,16 +118,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
+      "title": "Second place",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Inter-University Micromouse Competition",
+      "summary": "My team won 2nd place in 2016.  See my portfolio site for more details."
     }
   ],
   "references": [
