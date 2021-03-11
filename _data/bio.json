@@ -6,7 +6,7 @@
     "email": "samiulextreem@hotmail.com",
     "phone": "+8801768512544",
     "website": "https://mmaluhia.github.io",
-    "summary": "his is Samiul Haque. I have completed my graduation in Electrical and Electronic Engineering from Hajee Mohammad Danesh Science and Technology University, Bangladesh. I am extremely  passionate about technology. Since my university life I have joined many technical organizations to boost up my knowledge. I have participated in several national and international technical competitions. Starting with a simple light sensor, I have made  PID controlled advanced line following robot and autonomous sumo fighting robot. During the last two years of undergrad I solely focused on research. My expertise  is focused on IoT, Machine Learning and Image Processing. I have developed  several real life IoT  projects. Furthermore, I have completed several biomedical projects with the integration of Machine Learning and Image Processing. Currently, I am working as a Junior Software Engineer (Machine Learning) at Agrohi and passionate about exploring new research areas with the  integration of IoT and Machine Learning.",
+    "summary": "Hi, this is Samiul Haque. I have completed my graduation in Electrical and Electronic Engineering from Hajee Mohammad Danesh Science and Technology University, Bangladesh. Welcome to my Portfolio Website",
     "location": {
       "address": "Sonarampur",
       "postalCode": "",
@@ -89,32 +89,7 @@
       ]
     },
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+
   ],
   "awards": [
     {
