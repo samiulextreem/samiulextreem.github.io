@@ -77,38 +77,17 @@
     }
   ],
   
-  "experiences": [
+  
+  "voler": [
     {
-      "institution": "H& Technology University",
-      "area": "Electrical and Ecs Engineering",
-      "studyType": "B.Sc.",
-      "startDate": "2015-03-01",
-      "endDate": "2018-03-01",
-      "gpa": "3.07",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Govt. ce College",
-      "area": "Higher secondary school",
-      "studyType": "Science",
-      "startDate": "2-01-01",
-      "endDate": "2014-0",
-      "gpa": "50",
-      "courses": [
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "CSustainability",
+      "website": "httphawaii.edu/reis",
+      "position": "Softeloper",
+      "startDate": "2016-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Lead developr sensing project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
+        "Design firmware forr sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
