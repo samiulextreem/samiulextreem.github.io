@@ -76,6 +76,28 @@
       ]
     }
   ],
+  "Experiences": [
+    {
+      "institution": "H& Technology University",
+      "area": "Electrical and Ecs Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2015-03-01",
+      "endDate": "2018-03-01",
+      "gpa": "3.07",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Govt. ce College",
+      "area": "Higher secondary school",
+      "studyType": "Science",
+      "startDate": "2-01-01",
+      "endDate": "2014-0",
+      "gpa": "50",
+      "courses": [
+      ]
+    }
+  ],
 
   "awards": [
     {
