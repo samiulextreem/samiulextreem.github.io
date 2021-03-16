@@ -103,29 +103,18 @@
   
   "volunteer": [
     {
-      "organization": "CSustainability",
-      "website": "httphawaii.edu/reis",
-      "position": "Softeloper",
-      "startDate": "2016-01",
-      "endDate": "Present",
-      "summary": "Lead developr sensing project",
-      "highlights": [
-        "Design firmware forr sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "organization": "Ashuganj power station company Limited",
+      "position": "Intern",
+      "startDate": "2018-05",
+      "endDate": "2018-06",
+      "summary": "Gained experience on maintaining and operation of a steam power plant",
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "organization": "Northern Electricity Supply Company Limited",
+      "position": "Intern",
+      "startDate": "2018-08",
+      "endDate": "2018-09",
+      "summary": "Worked there as an intern to gain experience and learn about power transfer and substation",
     }
   ],
   
