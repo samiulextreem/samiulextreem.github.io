@@ -27,17 +27,20 @@
       "name": "internet of things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "ESP8266 & ESP32"
       ]
     },
     {
       "name": "Embedded programming",
       "keywords": [
+        "FreeRTOS",
       ]
     },
     {
       "name": "artificial intelligence",
       "keywords": [
+        "CNN",
+        "Reinforcement learning"
       ]
     }
   ],
@@ -59,6 +62,16 @@
         "scikit-learn",
       ]
     },
+    {
+      "name": "C & related associated liberies",
+      "level": "",
+      "keywords": [
+        "arduino",
+        "avr",
+        "FreeRTOS (real time operating system) with esp 32",
+      ]
+    },
+    
   ],
   "education": [
     {
