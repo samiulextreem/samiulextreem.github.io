@@ -57,7 +57,7 @@
   "education": [
     {
       "institution": "Hajee Mohammad Danesh Science & Technology University",
-      "area": "Electrical and Electronics Engineering",
+      "area": "Electrical and Electronics Engineering, CGPA- 3.07 out of 4",
       "studyType": "B.Sc.",
       "startDate": "2015-03-01",
       "endDate": "2018-03-01",
@@ -67,29 +67,7 @@
     },
     {
       "institution": "Govt. Science College",
-      "area": "Higher secondary school",
-      "studyType": "Science",
-      "startDate": "2012-01-01",
-      "endDate": "2014-12-30",
-      "gpa": "5.00",
-      "courses": [
-      ]
-    }
-  ],
-  "publication": [
-    {
-      "institution": "Hajee Mohammad Danesh Science & Technology University",
-      "area": "Electrical and Electronics Engineering",
-      "studyType": "B.Sc.",
-      "startDate": "2015-03-01",
-      "endDate": "2018-03-01",
-      "gpa": "3.07 (result published 2019, december)",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Govt. Science College",
-      "area": "Higher secondary school",
+      "area": "Higher secondary school, GPA- 5 out of 5",
       "studyType": "Science",
       "startDate": "2012-01-01",
       "endDate": "2014-12-30",
