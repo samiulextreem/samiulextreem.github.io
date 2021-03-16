@@ -43,14 +43,20 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Python & associated liberies",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "python",
-        "Assembly",
-        "Common Lisp"
+        "numpy",
+        "scipy",
+        "matplotlib",
+        "keras",
+        "tensorflow",
+        "pytorch",
+        "pycontrol",
+        "micropython",
+        "pandas",
+        "openCV",
+        "scikit-learn",
       ]
     },
   ],
