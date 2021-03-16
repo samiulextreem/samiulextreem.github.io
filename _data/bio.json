@@ -27,14 +27,14 @@
       "name": "internet of things",
       "keywords": [
         "Arduino ",
-        "ESP8266 & ESP32 "
+        "ESP8266 & ESP32"
       ]
     },
     {
       "name": "Embedded programming",
       "keywords": [
         "FreeRTOS ",
-        "FPGA ",
+        "FPGA",
       ]
     },
     {
@@ -42,7 +42,7 @@
       "keywords": [
         "CNN classification ",
         "Reinforcement learning ",
-        "Adversarial Pertubation Attack "
+        "Adversarial Pertubation Attack"
       ]
     }
   ],
