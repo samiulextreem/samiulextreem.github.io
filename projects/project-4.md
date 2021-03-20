@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/FreeRTOS.jpg
-title: ESP-32 multi threading using FreeRTOS (Real time operating system)
+image: images/covid.jpg
+title: Experimentation of adversarial pertubation attack on COVID-19 detection model
 permalink: projects/freeRTOS
 # All dates must be YYYY-MM-DD format!
 date: 2017-11-11
@@ -11,16 +11,15 @@ labels:
   - FreeRTOS
   - C++
 
-summary: I learned and experimented with multi threading operation on esp-32 platform. 
+summary: I learned and experimented with adversarial attack on cnn based image classifier. 
 ---
 
 <div class="ui images">
-  <img class="ui image" src="../images/FreeRTOS.jpg">
+  <img class="ui image" src="../images/covid_wall.jpg">
 </div>
 
-During my previous project, i had faced difficulties with getting multiple operation done at the same time. To mitigate the problem i came to know about realtime operating system 
-for microcontroller. It had opened us a whole lot of new possibilities which i could explore. But soon i found out that some of the framework usedfor RTOS are proprietory. Some framework are best suited for specific application. After all the consideration, I picked freeRTOS, which is a real-time operating system kernel for embedded devices that has been ported to 35 microcontroller platforms. It is distributed under the MIT License.
 
-I have used RTOS on a varity of task. To name a few , monitoring a IR sensor, controling a stepper motor and updating all these on a screen at the same time has been done. I mainly did these tasks on ESP-32 embedded system. During learning the framework, i had gained concept about task scheduling, timer handling, memory handling, priority managment etc.
+During covid emergency, there was ton of classifier for covid detection using chest image x-ray. But there was little to no study how much vulnerability is present in the model against adversarial attack.
 
+The project mainly focused on studing the issue in two main section. One was targeted attack on the classifier and another was non targeted attack. We found that both type of attack was possible on the networks.
 
