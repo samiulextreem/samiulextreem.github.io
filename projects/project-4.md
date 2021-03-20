@@ -7,9 +7,9 @@ permalink: projects/freeRTOS
 # All dates must be YYYY-MM-DD format!
 date: 2017-11-11
 labels:
-  - esp 32
-  - FreeRTOS
-  - C++
+  - Covid classifier
+  - advasarial pertubation
+  - pytorch
 
 summary: I learned and experimented with adversarial attack on cnn based image classifier. 
 ---
