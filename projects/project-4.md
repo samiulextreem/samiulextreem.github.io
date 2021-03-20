@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/covid.jpg
 title: Experimentation of adversarial pertubation attack on COVID-19 detection model
-permalink: projects/freeRTOS
+permalink: projects/covid
 # All dates must be YYYY-MM-DD format!
 date: 2017-11-11
 labels:
